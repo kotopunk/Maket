@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/1/ProjectSM/Content/Map/TestMap.umap",
+				"D:/1/ProjectSM/Content/Blueprints/ControllerSM.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/BP_PlayerSM.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/MadEnemy.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/TestGameMode.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/AIController.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/MainAIController.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/BTT_Attack.uasset",
+				"D:/1/ProjectSM/Content/Blueprints/MadBehaviorTree.uasset",
+				"D:/1/ProjectSM/Content/Untitled_HLOD0_Instancing.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset",
+				"D:/1/ProjectSM/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset",
+				"D:/1/ProjectSM/Content/Untitled.umap"
+			]
+		}
+	]
+}
